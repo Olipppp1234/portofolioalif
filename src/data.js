@@ -16,7 +16,7 @@ export const profile = {
   stackTitle: "Tech Stack & Skills",
   stackDesc: "Teknologi dan alat yang saya gunakan untuk membangun aplikasi, desain, dan game.",
   skills: ["React", "Node.js", "Firebase", "C#", "HTML", "CSS", "Git", "Blender", "Unity", "Figma", "Affinity", "Canva"],
-  resume: "/resume.pdf",
+  resume: "/CV-MUH-ALIF.pdf",
   links: [
     { label: "GitHub", href: "https://github.com/Olipppp1234" },
     { label: "Gmail", href: "https://mail.google.com/mail/?view=cm&fs=1&to=katomuhammad28@gmail.com&su=Halo%20Alif" },
