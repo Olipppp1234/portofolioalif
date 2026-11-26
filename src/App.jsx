@@ -203,7 +203,7 @@ export default function App() {
               <a key={l.label} href={l.href} target="_blank" rel="noreferrer"><SocialIcon name={l.label} />{l.label}</a>
             ))}
           </nav>
-          <a className="terminal mono" href={profile.resume} download="CV_Alif.pdf">
+          <a className="terminal mono" href={profile.resume} download="CV-MUH-ALIF.pdf">
             <span>$ ./download_resume.sh</span>
             <small>Klik untuk mengunduh CV saya.</small>
           </a>
