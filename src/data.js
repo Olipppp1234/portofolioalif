@@ -62,8 +62,8 @@ export const projects = [
     title: "Desain Grafis",
     desc: "Poster, branding, kemasan, dan materi visual untuk media cetak maupun digital..",
     links: [
-      { label: "Kunjungi", href: "https://pin.it/4bqHzUzPo" },
-      { label: "Pinterest", href: "https://pin.it/4bqHzUzPo" }, // ganti dengan link Pinterest kamu
+      { label: "Kunjungi", href: "https://id.pinterest.com/katomuhammad28/_profile/_created/" },
+      { label: "Pinterest", href: "https://id.pinterest.com/katomuhammad28/_profile/_created/" }, // ganti dengan link Pinterest kamu
     ],
     image: "/assets/desan.jpg",
     tools: ["Affinity", "Canva", "Pinterest"],
